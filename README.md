@@ -14,3 +14,7 @@ CLI app that:
 4. Admin -> thinking CLI w/ redeploy (support GCP or AWS first) (requires auth but could use magic link or google oauth)
 5. Payments integrations
 
+## LINKZ
+
+- [go scans] (https://go.dev/src/fmt/scan.go)
+
